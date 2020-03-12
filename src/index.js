@@ -1,0 +1,5 @@
+import './assets/sass/index.scss'
+import './assets/js/navegacao'
+import './assets/js/imgImport'
+import './assets/img/logo.png'
+import '../node_modules/font-awesome/css/font-awesome.css'
